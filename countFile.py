@@ -1,3 +1,4 @@
+# coding=utf-8
 import os
 result = []
 def get_all(cwd):
